@@ -1,0 +1,42 @@
+# ===== Documentos proprietários / enunciados oficiais =====
+/fase-2/IADT - Fase 2 - Tech challenge (1).pdf
+
+# ===== Vídeos e mídias =====
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# ===== Planos de execução (markdown) =====
+/fase-2/PLANO_EXECUCAO_FASE_2.md
+
+# ===== Relatórios, guias e artefatos de apresentação =====
+**/reports/
+
+# ===== Fora do escopo deste repositório (somente fase 2 / projeto1) =====
+/fase-1/
+/README.md
+
+# ===== Ambientes virtuais =====
+.venv/
+venv/
+env/
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# ===== Sistema =====
+.DS_Store
+Thumbs.db
+
+# ===== IDE =====
+.vscode/
+.idea/

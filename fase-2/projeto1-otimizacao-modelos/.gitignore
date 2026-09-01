@@ -1,0 +1,25 @@
+# Ambientes
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Artefatos gerados (relatórios, guias, outputs de LLM)
+reports/
+
+# Resultados de execução (figuras e métricas)
+results/
